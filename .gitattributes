@@ -1,7 +1,1 @@
-/* linguist-vendored=false */
-/* linguist-language=CSS */
-/* linguist-generated=true */
-
-src/styles/output.css
-
-/* linguist-vendored=true */
+*.css linguist-vendored
