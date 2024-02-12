@@ -31,7 +31,7 @@ npm install
 
 
 4. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
-REACT_APP_API_KEY=your-api-key
+VITE_APP_API_KEY=your-api-key
 
 5. Start the development server:
 npm start
@@ -46,7 +46,7 @@ npm start
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-## Results App
+## App result
 
 ![Weather App](src/assets/images/results.png)
 

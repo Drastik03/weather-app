@@ -1,1 +1,12 @@
-*.css linguist-vendored
+/* linguist-vendored=false */
+/* linguist-language=CSS */
+/* linguist-generated=true */
+
+/* Solo el 50% de este código contribuirá a las estadísticas */
+@tailwind base;
+@tailwind components;
+
+/* Solo el 50% de este código contribuirá a las estadísticas */
+@tailwind utilities;
+
+/* linguist-vendored=true */
